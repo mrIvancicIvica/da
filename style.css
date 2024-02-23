@@ -9,6 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background-color: hsl(220, 15%, 55%)
 }
 
 .container {
@@ -18,7 +19,7 @@ body {
   height: 600px;
   border-style: 1px sold black;
   padding: 20px;
-  background-color: #eeeeee;
+  background-color: hsl(0, 0%, 100%);
   border-radius: 23px;
 }
 .image {
